@@ -13,3 +13,6 @@ Revision history for Perl extension BerkeleyDB::Locks.
 	- Updated Makefile.PL for BerkeleyDB 4.2
 	- Added tests and help instructions to Makefile.PL
 		(thanks to input from Geoffrey Leach)
+
+0.04  Sat Jul 10 12:37:03 EDT 2004
+	- Whoops.  Updated README file.
